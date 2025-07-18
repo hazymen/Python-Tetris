@@ -1,3 +1,5 @@
+#AIにショートコード依頼した結果、この化け物コードっが生まれました
+
 import tkinter as t,random as r
 class Tetris:
     def __init__(s):
